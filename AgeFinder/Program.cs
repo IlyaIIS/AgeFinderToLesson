@@ -43,6 +43,7 @@ namespace AgeFinder
             if (month == monthNow) { if (day > dayNow) { age--; } }
 
             Console.WriteLine(userName + ", ваш возраст составляет " + age + " лет!");
+// тест для Гита
         }
     }
 }
